@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.cbr-bg{
+    background: #264653;
+}
+
+.cbr-heading-font{
+    font-weight: 600;
+    font-size: 48px;
+}
+.cbr-p{
+    font-weight: 300;
+    font-size: 14px;
+    color: #E0E0E0;
+}
+.cbr-btn{
+    background: #E76F51;
+    color: white;
+    font-weight: 500;
+}
+.cbr-client-clr{
+    color: #E76F51;
+}
+.cbr-client-description{
+    color: #6C6C6C;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
